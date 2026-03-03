@@ -10,12 +10,12 @@ My name is Mateo Requejo. I'm 21 years old and based in Argentina 🇦🇷
 💻 Previous Experience
 
 - Fullstack Software Developer at Botmaker (May 2025 – November 2025)
-  1. Designed and maintained robust APIs using Java.
-  2. Developed frontend components with React for internal tools and client-facing dashboards.
-  3. Worked on chatbot solutions for a major telecommunications company in South America.
+  - Designed and maintained robust APIs using Java.
+  - Developed frontend components with React for internal tools and client-facing dashboards.
+  - Worked on chatbot solutions for a major telecommunications company in South America.
 - Chatbot Conversational Designer at Botmaker (April 2024 – May 2025)
-  1. Designed and implemented AI-driven chatbot solutions for e-commerce companies and government clients.
-  2. Collaborated in large, cross-functional teams and worked directly with clients.
+  - Designed and implemented AI-driven chatbot solutions for e-commerce companies and government clients.
+  - Collaborated in large, cross-functional teams and worked directly with clients.
 
 🛠 Technical Skills
 - Languages: Java, Go, Python, JavaScript, Rust, SQL
