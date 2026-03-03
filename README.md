@@ -6,7 +6,7 @@ My name is Mateo Requejo. I'm 21 years old and based in Argentina 🇦🇷
 - 🔎 I’m part of the Search (Mixer) Team, contributing to high-throughput microservices responsible for product ranking and search results merging for millions of users.
 - ⚙️ I focus on building high-scalability distributed systems, engineering business rules into complex architectures while balancing performance and commercial objectives.
 
-💻 Previous Experience
+### 💻 Previous Experience
 - Fullstack Software Developer at Botmaker (May 2025 – November 2025)
   - Designed and maintained robust APIs using Java.
   - Developed frontend components with React for internal tools and client-facing dashboards.
@@ -15,16 +15,15 @@ My name is Mateo Requejo. I'm 21 years old and based in Argentina 🇦🇷
   - Designed and implemented AI-driven chatbot solutions for e-commerce companies and government clients.
   - Collaborated in large, cross-functional teams and worked directly with clients.
 
-🛠 Technical Skills
+### 🛠 Technical Skills
 - Languages: Java, Go, Python, JavaScript, Rust, SQL
 - Backend & Infrastructure: Microservices Architecture, REST APIs, Distributed Systems, Scalability & Performance, Spring Boot
 - Search & Data: Ranking Algorithms, Elasticsearch, Relational & NoSQL Databases
 - Tools & Practices: Git, Docker, Unit Testing, OOP, Design Patterns, Clean Code, Agile/Scrum
 
-🌎 Languages
+### 🌎 Languages
 - 🇬🇧 English – B2 (First Certificate Exam – FCE)
 
-🚀 About Me
-
+### 🚀 About Me
 Backend Developer with a strong focus on high-performance and scalable systems. Passionate about software architecture, clean code, and data-driven decision-making.
 Always open to collaborating on impactful projects and continuously seeking personal and professional growth.
