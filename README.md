@@ -1,6 +1,6 @@
 ## Hi everyone! 👋
 
-My name is Mateo Requejo. I'm 21 years old and based in Argentina 🇦🇷
+My name is Mateo Requejo. I'm 22 years old and based in Argentina 🇦🇷
 - 🎓 Computer Engineering Student (4th year) at the Universidad de Buenos Aires (UBA).
 - 💼 Currently working as a Backend Software Developer at Mercado Libre (since November 2025).
 - 🔎 I’m part of the Search (Mixer) Team, contributing to high-throughput microservices responsible for product ranking and search results merging for millions of users.
