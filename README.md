@@ -13,5 +13,5 @@ I'm particularly interested in distributed systems, search infrastructure, perfo
 Java · Kotlin · Distributed Systems · Microservices · SQL/NoSQL · Docker
 
 ### Contact
-- Mail: materequejo04@gmail.com
+- [Email](materequejo04@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/mateo-requejo/)
