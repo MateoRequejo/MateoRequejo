@@ -1,8 +1,12 @@
 ## Mateo Requejo
 
-**Backend Software Developer** at **Mercado Libre**, working on large-scale search systems and Java/Kotlin backend services.
+**Backend Software Developer** specializing in Java, Kotlin and distributed systems.
 
-I'm particularly interested in distributed systems, search infrastructure, performance and reliability.
+Previously at Mercado Libre, I worked on large-scale search systems, ranking infrastructure and Java/Kotlin backend services. Also experienced in API development and enterprise integrations at Botmaker.
+
+I'm particularly interested in distributed systems, microservices, backend architecture, performance and reliability.
+
+Currently pursuing a degree in Computer Engineering at the University of Buenos Aires (UBA).
 
 ### Featured work
 
